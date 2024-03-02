@@ -2,6 +2,8 @@
 
 body {
 	font-family: "BIZ UDGothic", sans-serif;
+		width: 100vw;
+	  overflow-x: hidden;
 }
 
 /* 中デバイス（タブレット, 768px 未満）
